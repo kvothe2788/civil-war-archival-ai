@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+*.log
+src/mdt02_700_4736.asc
+src/WatercourseLink.gml
+src/AMS_1956-1957.jpg
+src/escandal_lidar2_y_vuelo1956.png
+src/lidar2_perfiles.json
+
